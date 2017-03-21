@@ -1,5 +1,4 @@
 // randomColor by David Merfield under the MIT license
-// https://github.com/davidmerfield/randomColor/
 ;(function(root, factory) {
 
   // Support AMD
